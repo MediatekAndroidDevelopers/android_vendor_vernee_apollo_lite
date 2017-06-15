@@ -1,0 +1,10 @@
+CMD_SET_CPU_CORE_MIN com.imangi.templerun2 3
+CMD_SET_CLUSTER_CPU_CORE_MAX com.android.browser 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.android.chrome 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.android.letv.browser 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.UCMobile.intl 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.UCMobile 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.uc.browser.en 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.tencent.mtt.intl 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.tencent.mtt 2 0
+CMD_SET_CLUSTER_CPU_CORE_MAX com.baidu.browser.apps 2 0
